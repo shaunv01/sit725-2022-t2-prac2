@@ -1,0 +1,22 @@
+{
+  "name": "sit725-2022-t2-prac2",
+  "version": "1.0.0",
+  "description": "SIT725 2022 T2 WEEK 2 PRACTICAL",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shaunv01/sit725-2022-t2-prac2.git"
+  },
+  "author": "Shaun Vorster",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shaunv01/sit725-2022-t2-prac2/issues"
+  },
+  "homepage": "https://github.com/shaunv01/sit725-2022-t2-prac2#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
